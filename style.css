@@ -8,16 +8,22 @@ section{
 .half-width{
     width: 50%;
     margin-bottom: 100px;
+    margin-right: 50px;
     
 }
 .half-width img{
     width: 100%;
+    border-radius: 50px;
 }
 .color{
     color: chartreuse;
 }
-.button{
+.link-button{
     text-decoration: none;
-    color: brown;
+    color: cornsilk;
+    background-image: linear-gradient(red,blue);
+    border-radius: 3px;
+    padding: 10px 5px;
+    
     
 }
