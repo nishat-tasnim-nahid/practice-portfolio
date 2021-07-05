@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-bottom: 100px;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.color{
+    color: chartreuse;
+}
+.button{
+    text-decoration: none;
+    color: brown;
+    
+}
